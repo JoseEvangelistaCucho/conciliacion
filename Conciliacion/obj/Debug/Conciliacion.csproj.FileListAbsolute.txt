@@ -1,0 +1,56 @@
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\obj\Debug\Conciliacion.csproj.AssemblyReference.cache
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\obj\Debug\Conciliacion.Properties.Resources.resources
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\obj\Debug\Conciliacion.csproj.GenerateResource.cache
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\Conciliacion.exe.config
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\Conciliacion.exe.manifest
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\Conciliacion.application
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\Conciliacion.exe
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\Conciliacion.pdb
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.dll
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\SpreadsheetLight.dll
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.pdb
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.xml
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\SpreadsheetLight.xml
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\obj\Debug\Conciliacion.Form1.resources
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\obj\Debug\Conciliacion.csproj.CoreCompileInputs.cache
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\obj\Debug\Conciliacion.exe.manifest
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\obj\Debug\Conciliacion.application
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\obj\Debug\Conciliacion.csproj.CopyComplete
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\obj\Debug\Conciliacion.exe
+C:\Users\jose_\source\repos\Conciliacion\Conciliacion\obj\Debug\Conciliacion.pdb
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\Conciliacion.exe.config
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\Conciliacion.exe.manifest
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\Conciliacion.application
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\Conciliacion.exe
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\Conciliacion.pdb
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.dll
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\SpreadsheetLight.dll
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.pdb
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.xml
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\SpreadsheetLight.xml
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\obj\Debug\Conciliacion.csproj.AssemblyReference.cache
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\obj\Debug\Conciliacion.Form1.resources
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\obj\Debug\Conciliacion.Properties.Resources.resources
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\obj\Debug\Conciliacion.csproj.GenerateResource.cache
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\obj\Debug\Conciliacion.csproj.CoreCompileInputs.cache
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\obj\Debug\Conciliacion.exe.manifest
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\obj\Debug\Conciliacion.application
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\obj\Debug\Conciliacion.csproj.CopyComplete
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\obj\Debug\Conciliacion.exe
+C:\Users\ERIDSAAPPAdmin\Desktop\Concilaicion final\Conciliacion\Conciliacion\obj\Debug\Conciliacion.pdb
