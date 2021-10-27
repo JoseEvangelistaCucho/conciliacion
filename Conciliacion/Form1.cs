@@ -101,10 +101,10 @@ namespace Conciliacion
             
             ////////
               string selectDate = dateTimePicker1.Value.ToString("MM/dd/yyyy");
-             var c = "Data Source=10.105.0.4;Initial Catalog=Bantotal;Persist Security Info=True;User ID=DSEVOL;Password=BancoDigital2809";
-              SqlConnection co = new SqlConnection(c);
+           /*  var c = "Data Source=10.105.0.4;Initial Catalog=Bantotal;Persist Security Info=True;User ID=DSEVOL;Password=BancoDigital2809";
+              SqlConnection co = new SqlConnection(c);*/
 
-          //  SqlConnection co = new SqlConnection(Conexion.cnn);
+            SqlConnection co = new SqlConnection(Conexion.cnn);
             //////
             ///// Data
             ////
